@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hey folks
+
+🚧 I'm workin' on it 🚧
 
 <!--
-**tecxh/tecxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+
+tecxh$ echo ~/.pronouns
+they/them
+
+texch$ echo ~/.name
+tecxh
+pronounced: /ˈtek/
+
+```
 
 Here are some ideas to get you started:
 
