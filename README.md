@@ -9,4 +9,4 @@ pronounced: /ˈtek/
 
 ```
 
-tinkering / side project account of [AlecxMoritz](https://github.com/AlecxMoritz)
+personal account of [AlecxMoritz](https://github.com/AlecxMoritz)
